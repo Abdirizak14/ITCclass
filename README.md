@@ -1,0 +1,1 @@
+# ITCclass-printPowerOfN
